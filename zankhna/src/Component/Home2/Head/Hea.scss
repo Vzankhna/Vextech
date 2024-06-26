@@ -1,0 +1,44 @@
+.head{
+  background-color: rgb(4, 4, 4);
+  list-style: none;
+  display: flex;
+  color:floralwhite;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 30px;
+
+  .logo{
+    cursor: pointer;
+  }
+  .center{
+    
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      font-size: 2px;
+      
+      li{
+        font-size: 25px;
+        cursor: pointer;
+      }
+ 
+
+      @media screen and (max-width: 768px) {
+   
+         &{
+              display: none;
+          }
+      }
+  }
+  
+  .right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+}
+

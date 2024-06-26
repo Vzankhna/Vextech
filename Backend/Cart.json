@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "img":"/ajio.jpg",
+        "n":"Black Printed T-shirt",
+        "p":350
+    },
+    {
+        "id":2,
+        "img":"/hb.jpg",
+        "n":"Black T-shirt",
+        "p":290
+    },
+    {
+        "id":3,
+        "img":"/im.jpg",
+        "n":"T-shirt",
+        "p":299
+    }
+]

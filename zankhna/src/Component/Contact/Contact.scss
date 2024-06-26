@@ -1,0 +1,41 @@
+@import '../../Common/mixin.scss';
+.contact{
+    height: 450px;
+    width: 290px;
+    box-shadow: rgb(199, 175, 244) 0px 7px 20px 0px;
+    background-image: linear-gradient(rgb(123, 123, 126),rgb(192, 192, 204));
+    padding-left: 80px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-left: 550px;
+    border-radius: 10px;
+    h1{
+        padding-right: 80px;
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: center;
+        color: rgb(246, 241, 241);
+    }
+    input{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: large;  
+    }
+    button{
+        background-color: rgb(229, 234, 235);
+        color: rgb(19, 19, 19);
+        font-size: larger;
+        margin-left: 45px;
+        height: 35px;
+       
+    }
+    textarea{
+        width: 220px;
+    }
+  
+    @include cn{
+        margin: 0 auto;
+        padding: auto;
+    }
+}       

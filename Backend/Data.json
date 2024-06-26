@@ -1,0 +1,1121 @@
+[
+    {
+        "id": 1,
+        "img": "/track.jpg",
+        "product_category_route": "track-pants",
+        "product_category": "Track Pants",
+
+        "product_container":[
+        {
+            "id": 1,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/track.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/track_1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/track_2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/track_3.jpg"
+            }
+        ],
+        "img": "/track.jpg",
+        "name": "Black Track",
+        "product_route": "black-track-pant",
+        "stock": 50,
+        "price": "\u20B9499",
+        "deleted_price":"\u20B9599" ,
+        "rating": 4.5,
+        "description": "Instructions:Track Pant for Men || Track Pants || Plain Track PantStyle: Casual Fit Type: Regular Fit Fabric-Laycra" 
+        },
+
+        {
+            "id": 2,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            },
+            {
+                "id": 3,
+                "size": "XL"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/track1.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/track1-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/track1-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/track1-3.jpg"
+            }
+        ],
+        "img": "/track1.jpg",
+        "name": "Lymio",
+        "product_route": "lymio-track-pant",
+        "stock": 50,
+        "price": "\u20B9599",
+        "deleted_price": "\u20B9899",
+        "rating": 5.5,
+        "description": "Instructions:Track Pant for Men || Track Pants || Plain Track PantStyle: CasualFit Type: Regular FitFabric-LaycraMen Ttack Pant" 
+        },
+
+        {
+            "id": 3,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/track2.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/track2-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/track2-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/track2-3.jpg"
+            }
+        ],
+        "img": "/track2.jpg",
+        "name": "Blue Star Shark",
+        "product_route": "blue-starshark-track-pant",
+        "stock": 50,
+        "price": "\u20B9459",
+        "deleted_price": "\u20B9599",
+        "rating": 5.5,
+        "description": "Instructions:Zippers on both side pocketsS-28waist, M-30waist, L-32waist, XL-34waist,XXL-36waistRapid Dry and antimicrobial technology wicks sweat & dries fast"
+        },
+
+        
+        {
+            "id": 4,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/track3.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/track3-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/track3-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/track3-3.jpg"
+            }
+        ],
+        "img": "/track3.jpg",
+        "name": "T2F",
+        "product_route": "t2f-track-pant",
+        "stock": 50,
+        "price": "\u20B9299",
+        "deleted_price": "\u20B9399",
+        "rating": 3.5,
+        "description": "Instructions:Relaxed Fit 100% Cotton Drawstring closure"
+        },
+
+        {
+            "id": 5,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/track4.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/track4-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/track4-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/track4-3.jpg"
+            }
+        ],
+        "img": "/track4.jpg",
+        "name": "HVBK",
+        "product_route": "hvbk-track-pant",
+        "stock": 40,
+        "price": "\u20B9399",
+        "deleted_price": "\u20B9499",
+        "rating": 5.5,
+        "description":"Instructions:Material : 100% Pure Cotton. GSM : 190 to 200. Weave : Knitted."
+        },
+
+        {
+            "id": 6,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            },
+            {
+                "id": 4,
+                "size": "XL"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/track5.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/track5-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/track5-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/track5-3.jpg"
+            }
+        ],
+        "img": "/track5.jpg",
+        "name": "Puma Track Pant",
+        "product_route": "puma-track-pant",
+        "stock": 250,
+        "price": "\u20B9899",
+        "deleted_price": "\u20B9999",
+        "rating": 5.5,
+        "description": "Instructions:Style Name:-Essentials Logo Men's Sweatpants Material:-Polycotton Pattern:-Printed"
+        }    
+    ]
+      
+    },
+
+    {
+        "id": 2,
+        "img": "/shoes.jpg",
+        "product_category_route": "puma-shoes",
+        "product_category": "Puma-Shoes",
+
+        "product_container":[
+        {
+            "id": 1,
+            "size":[
+            {
+                "id": 1,
+                "size": 4
+            },
+            {
+                "id": 2,
+                "size": 5
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shoes_1.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shoes_2.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shoes_3.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shoes.jpg"
+            }
+        ],
+        "img": "/shoes.jpg",
+        "name": "Puma Sports Shoes for Men ",
+        "product_route": "puma-men-black-shoes",
+        "stock": 50,
+        "price": "\u20B91499",
+        "deleted_price": "\u20B91899",
+        "rating": 4.5,
+        "description": "Instructions:Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner" 
+        },
+
+        {
+            "id": 2,
+            "size":[
+            {
+                "id": 1,
+                "size": 4
+            },
+            {
+                "id": 2,
+                "size": 5
+            },
+            {
+                "id": 3,
+                "size": 6
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shoes1.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shoes1-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shoes1-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shoes1-3.jpg"
+            }
+        ],
+        "img": "/shoes1.jpg",
+        "name": "Men's White Casual High-Neck Shoes",
+        "product_route": "asian-men-high-neck-sneaker",
+        "stock": 50,
+        "price": "\u20B9699",
+        "deleted_price": "\u20B9999",
+        "rating": 5.5,
+        "description": "Lightweight & Breathable,Non Slip & Shockproof,Comfort Sole & Flexible Walk" 
+        },
+
+        {
+            "id": 3,
+            "size":[
+            {
+                "id": 1,
+                "size": 5
+            },
+            {
+                "id": 2,
+                "size": 6
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shoes2.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shoes2-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shoes2-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shoes2-3.jpg"
+            }
+        ],
+        "img": "/shoes2.jpg",
+        "name": "adidas Mens Harquin M Sneaker",
+        "product_route": "adidas-men-sneaker",
+        "stock": 50,
+        "price": "\u20B92499",
+        "deleted_price": "\u20B94999",
+        "rating": 5.0,
+        "description": "Instructions:Upper Material-Mesh,Fastening-Lace up,Outsole Type-Marking,Ankle Height-Low"
+        },
+
+        
+        {
+            "id": 4,
+            "size":[
+            {
+                "id": 1,
+                "size": 4
+            },
+            {
+                "id": 2,
+                "size": 5
+            },
+            {
+                "id": 3,
+                "size": 6
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shoes3.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shoes3-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shoes3-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shoes3-3.jpg"
+            }
+        ],
+        "img": "/shoes3.jpg",
+        "name": "Nivia Flash Shoes for Men",
+        "product_route": "nivia-flash-shoe-badminton-shoes-for-men",
+        "stock": 50,
+        "price": "\u20B9999",
+        "deleted_price": "\u20B91999",
+        "rating": 4.5,
+        "description": "Instructions:Die-Cut soft NR EVA sock liner laminated with Polyester fabric,Soft cushion NR EVA Inner insole,TOE forepart stitching on sole lip gives provides support toe area."
+        },
+
+        {
+            "id": 5,
+            "size":[
+            {
+                "id": 1,
+                "size": 4
+            },
+            {
+                "id": 2,
+                "size": 5
+            },
+            {
+                "id": 3,
+                "size": 6
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shoes4.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shoes4-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shoes4-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shoes4-3.jpg"
+            }
+        ],
+        "img": "/shoes4.jpg",
+        "name": "White Skeatchers",
+        "product_route": "white-skeatchers",
+        "stock": 100,
+        "price": "\u20B92599",
+        "deleted_price": "\u20B93999",
+        "rating": 4.5,
+        "description":"Instructions:Have your little ones in classic style and comfort with Sport Court 92 - Chill Street. This lightweight lace-up features a smooth synthetic upper with a cushioned insole. Construction Smooth synthetic upper with lace-up front Lightweight shock-absorbing midsole Flexible traction outsole 1 1/4-inch heel height Skechers logo detail Details Cushioned comfort insole,Lightweight, Machine Washable"
+        },
+
+        {
+            "id": 6,
+            "size":[
+            {
+                "id": 1,
+                "size": 4
+            },
+            {
+                "id": 2,
+                "size": 5
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shoes5.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shoes5-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shoes5-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shoes5-3.jpg"
+            }
+        ],
+        "img": "/shoes5.jpg",
+        "name": "OFF LIMITS Men's Sports Shoes",
+        "product_route": "off-limits-men-shoes",
+        "stock": 450,
+        "price": "\u20B92599",
+        "deleted_price": "\u20B93999",
+        "rating": 5.5,
+        "description": "Instructions:Phylon TPR sole provides traction and grip over varied surfaces,Mesh for Breathability and flexibilty."
+        }    
+    ]
+      
+    },
+    {
+        "id": 3,
+        "img": "/shirt.jpg",
+        "product_category_route": "cb-colerbook-men-casual-shirt",
+        "product_category": "Men Casual Shirt",
+
+        "product_container":[
+        {
+            "id": 1,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size":"M"
+            },
+            {
+                "id": 3,
+                "size":"L"
+            },
+            {
+                "id": 4,
+                "size":"XL"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shirt_1.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shirt_2.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg":"/shirt.jpg"
+            }
+        ],
+        "img": "/shirt.jpg",
+        "name": "Men Casual Shirt",
+        "product_route": "cb-colerbook-men-casual-shirt",
+        "stock": 550,
+        "price": "\u20B9499",
+        "deleted_price": "\u20B91999",
+        "rating": 4.0,
+        "description": "Instructions: Soft Touch Cotton Fabrics Good capability of tenderness, air permeability and moisture absorption feels soft and comfy 80% Cotton 20% Silk." 
+        },
+
+        {
+            "id": 2,
+            "size":[
+            {
+                "id": 1,
+                "size": "M"
+            },
+            {
+                "id": 2,
+                "size": "L"
+            },
+            {
+                "id": 3,
+                "size": "XL"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shirt1.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shirt1-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shirt1-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shirt1-3.jpg"
+            }
+        ],
+        "img": "/shirt1.jpg",
+        "name": "Pinkmint Popcorn Shirt for Men Shirt Summer",
+        "product_route": "pinkmint-popcorn-shirt-for-men-spread-collar-shirt-summer",
+        "stock": 550,
+        "price": "\u20B9499",
+        "deleted_price": "\u20B9699",
+        "rating": 5.0,
+        "description": "Instructions:Available in various sizes to fit different body types,Short sleeves perfect for warm weather or layering" 
+        },
+
+        {
+            "id": 3,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id":3,
+                "size": "L"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shirt2.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shirt2-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shirt2-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shirt2-3.jpg"
+            }
+        ],
+        "img": "/shirt2.jpg",
+        "name": "Bellstone Men Kurta Shirt",
+        "product_route": "bellstone-men-cotton-kurta-shirt",
+        "stock": 1000,
+        "price": "\u20B9499",
+        "deleted_price": "\u20B9999",
+        "rating": 5.8,
+        "description": "Instructions:Soft Touch Rayon Fabrics: Good capability of tenderness, air permeability and moisture absorption feels soft and comfy"
+        },
+
+        
+        {
+            "id": 4,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            },
+            {
+                "id": 4,
+                "size":"XL"
+            },
+            {
+                "id": 5,
+                "size": "XXL"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shirt3.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shirt3-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shirt3-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shirt3-3.jpg"
+            }
+        ],
+        "img": "/shirt3.jpg",
+        "name": "Lymio Casual Shirt for Men",
+        "product_route": "lymio-casual-shirt-for-men",
+        "stock": 580,
+        "price": "\u20B91999",
+        "deleted_price": "\u20B92999",
+        "rating": 5.9,
+        "description": "Instructions:Neckline:Collar,Sleeve Length:Short Sleeve,Reguler Fit"
+        },
+
+        {
+            "id": 5,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            },
+            {
+                "id":4,
+                "size":"XL"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shirt4.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shirt4-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shirt4-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shirt4-3.jpg"
+            }
+        ],
+        "img": "/shirt4.jpg",
+        "name": "Leriya Fashion Textured Shirts for Men",
+        "product_route": "leriya-fashion-textured-shirts-for-men",
+        "stock": 800,
+        "price": "\u20B9449",
+        "deleted_price": "\u20B9999",
+        "rating": 4.7,
+        "description":"Instructions: Enhance Your Look by Wearing this Casual Stylish Men's shirt, Team it with a Pair of Tapered Denims Or Solid Chinos and Loafers for a fun Smart Casual Look."
+        },
+
+        {
+            "id": 6,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id":3,
+                "size":"L"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/shirt5.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/shirt5-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/shirt5-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/shirt5-3.jpg"
+            }
+        ],
+        "img": "/shirt5.jpg",
+        "name": " Men Printed Shirt",
+        "product_route": "men-printed-shirt",
+        "stock": 2500,
+        "price": "\u20B9399",
+        "deleted_price": "\u20B9599",
+        "rating": 5.9,
+        "description": "Instructions:Enhance your look by wearing this Casual Stylish Men's shirt, Team it with a pair of tapered denims Or Solid Chinos and Loafers for a fun Smart Casual look"
+        }    
+    ]
+      
+    },
+
+    {
+        "id": 4,
+        "img": "/t-shirt.jpg",
+        "product_category_route": "front-printed-t-shirt-for-men",
+        "product_category": "Printed T-Shirt for Men",
+
+        "product_container":[
+        {
+            "id": 1,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size":"M"
+            },
+            {
+                "id": 3,
+                "size":"L"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/tshirt_1.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/tshirt_2.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg":"/tshirt_3.jpg"
+            },
+            {
+                "id":4,
+                "sideimg":"/t-shirt.jpg"
+            }
+        ],
+        "img": "/t-shirt.jpg",
+        "name": "Printed T-Shirt for Men",
+        "product_route": "front-printed-t-shirt-for-men",
+        "stock": 5000,
+        "price": "\u20B9299",
+        "deleted_price": "\u20B9499",
+        "rating": 4.5,
+        "description": "Instructions: Soft Inner and Outer Finish , Comfort Fit , Stretchable, 80% cotton , 20% Polyester" 
+        },
+
+        {
+            "id": 2,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/tshirt1.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/tshirt1-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/tshirt1-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/tshirt1-3.jpg"
+            }
+        ],
+        "img": "/tshirt1.jpg",
+        "name": "AUSK T-Shirt for Mens",
+        "product_route": "ausk-t-shirt-for-mens-double-stripes-on-chest",
+        "stock": 1550,
+        "price": "\u20B9499",
+        "deleted_price": "\u20B9899",
+        "rating": 5.2,
+        "description": "Instructions: Wash Care: Machine Wash/ Hand Wash Fabric Type: 60% Cotton And 40% Polyester" 
+        },
+
+        {
+            "id": 3,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            },
+            {
+                "id": 4,
+                "size": "XL"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/tshirt2.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/tshirt2-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/tshirt2-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/tshirt2-3.jpg"
+            }
+        ],
+        "img": "/tshirt2.jpg",
+        "name": "Lymio Men T-Shirt for Men",
+        "product_route": "lymio-t-shirt-printed-t-shirt-for-men",
+        "stock": 2500,
+        "price": "\u20B9399",
+        "deleted_price": "\u20B9599",
+        "rating": 5.2,
+        "description": "Instructions:Product color might slightly vary due to photographic lighting sources or your monitor settings" 
+        },
+
+     
+
+        {
+            "id": 4,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            },
+            {
+                "id": 4,
+                "size":"XL"
+            },
+            {
+                "id": 5,
+                "size": "XXL"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/tshirt3.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/tshirt3-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/tshirt3-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/tshirt3-3.jpg"
+            }
+        ],
+        "img": "/tshirt3.jpg",
+        "name": "Oversized Half Sleeve T-Shirt",
+        "product_route": "oversized-baggy-fit-pure-cotton-drop-shoulder-half-sleeve-latest&aesthetic-black&lilac-back-doodle&tiger-graphic-printed-round-neck-t-shirt-for-men",
+        "stock": 5800,
+        "price": "\u20B9459",
+        "deleted_price": "\u20B91999",
+        "rating": 5.9,
+        "description": "Instructions:More comfortable for your classic everyday look."
+        },
+
+        {
+            "id": 5,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id": 3,
+                "size": "L"
+            },
+            {
+                "id":4,
+                "size":"XL"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/tshirt4.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/tshirt4-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/tshirt4-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/tshirt4-3.jpg"
+            }
+        ],
+        "img": "/tshirt4.jpg",
+        "name": "Pure Cotton Oversized T-Shirt",
+        "product_route": "cotton-oversized-fit-cool-smile-graphic-printed-black-unisex-t-shirt",
+        "stock": 2800,
+        "price": "\u20B9449",
+        "deleted_price": "\u20B91999",
+        "rating": 4.8,
+        "description":"Care Instructions: Hand Wash"
+        },
+
+        {
+            "id": 6,
+            "size":[
+            {
+                "id": 1,
+                "size": "S"
+            },
+            {
+                "id": 2,
+                "size": "M"
+            },
+            {
+                "id":3,
+                "size":"L"
+            }
+        ],
+        "sideimg":[
+            {
+                "id": 1,
+                "sideimg": "/tshirt5.jpg"
+            },
+            {
+                "id": 2,
+                "sideimg":"/tshirt5-1.jpg"
+            },
+            {
+                "id": 3,
+                "sideimg": "/tshirt5-2.jpg"
+            },
+            {
+                "id": 4,
+                "sideimg":"/tshirt5-3.jpg"
+            }
+        ],
+        "img": "/tshirt5.jpg",
+        "name": " Men T Shirt Printed",
+        "product_route": "men-printed-t-shirt",
+        "stock": 4500,
+        "price": "\u20B9349",
+        "deleted_price": "\u20B9599",
+        "rating": 5.9,
+        "description": "Instructions:Oversized T-shirt, loose fit, so very comfortable to wear, also looks very trendy & classy"
+        }    
+    ]
+      
+    }
+]

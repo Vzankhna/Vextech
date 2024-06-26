@@ -1,0 +1,40 @@
+@import '../../Common/mixin.scss';
+.dropdown{
+    background-color:rgb(89, 98, 98);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    gap: 20px;
+    font-size: 20px;
+    padding: 5px;
+    position: relative;
+    cursor: pointer;
+
+        @include d{
+            display: none;
+        }
+    .content{
+        display: none;
+        position: absolute;
+        border: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+    li{
+        height: 50px;
+        width: 90px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        @include tex()
+    }
+
+    .list1:hover .content{
+        display: block;
+        background-color: rgb(52, 57, 60);
+        color: rgb(241, 241, 247);
+        cursor: default;
+        text-align: center;
+  
+    }
+}

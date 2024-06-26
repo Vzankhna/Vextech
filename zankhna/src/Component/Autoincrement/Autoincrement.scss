@@ -1,0 +1,24 @@
+@import '../../Common/mixin.scss';
+.increment{
+    margin-top: 70px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    max-height: fit-content;
+    font-size: 20px;
+.in{
+    display: flex;
+    gap: 20px;
+    color: rgb(16, 16, 16);
+h2{
+    font-size: 25px;
+}
+}
+@include inc{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+}

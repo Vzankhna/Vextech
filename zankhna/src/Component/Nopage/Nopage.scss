@@ -1,0 +1,39 @@
+@import '../../Common/mixin.scss';
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    
+    .left{
+
+        h1{
+            color: red;
+            padding-left: 150px;
+        }
+        button{
+            background-color: black;
+            color: whitesmoke;
+            height: 40px;
+            width: 100px;
+            margin-top: 20px;
+            margin-left: 250px;
+        }
+        button:hover{
+            background-color: white;
+            color: black;
+        }
+    }
+    .right{
+        img{
+            height: 500px;
+            width: 800px;
+            margin-top: 60px;
+        }
+    }
+@include np{
+    margin: auto;
+    padding: auto;
+}
+}
+

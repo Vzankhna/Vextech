@@ -1,0 +1,76 @@
+@import '../../Common/mixin.scss';
+.main-payment{
+    height: 500px;
+    max-width: 400px;
+    background-color: white;
+    padding: 0 10px;
+    margin-left: 520px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.409),0 0 5px rgba(0, 0, 0, 0.422);
+
+    @include payment{
+        height: auto;
+    }
+
+    .payment{
+    display: grid;
+    padding: 10px;
+    grid-template-columns: auto auto;
+    justify-content: space-around;
+    align-items: end;
+    gap: 50px;
+    
+    .payment-method{
+    height: 70px;
+    width: 70px;
+    border: 1px solid rgba(0, 0, 0, 0.523);
+    text-align: center;
+
+img{
+    height: 70px;
+    width: 70px;
+}
+    }
+
+    @include payment{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        padding: 10px;
+        gap: 50px;        
+    }
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 8px 12px;
+    border: 1px solid rgba(0, 0, 0, 0.484);
+    width: 120px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 150px;
+    cursor: pointer;
+
+&:hover{
+    background-color: white;
+    color: black;
+}
+
+@include payment{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px auto;
+}
+
+}
+
+@include payment{
+    margin: auto;
+}
+}

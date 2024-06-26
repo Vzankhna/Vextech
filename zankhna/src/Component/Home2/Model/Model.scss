@@ -1,0 +1,33 @@
+.model{
+    position: absolute;
+    left: 550px;
+    top: 200px;
+    overflow: auto;
+    width: 400px;
+    height: 300px;
+    background-color: aliceblue;
+    padding: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.422),0 0 5px rgba(0, 0, 0, 0.34);
+
+    .content{
+        text-align: center;
+        font-size: 25px;
+        padding-top: 120px;
+    }
+    .close{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: white;
+        color: black;
+        font-size: 35px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        color: rgba(0, 0, 0, 0.701);
+        border: 1px solid black;
+        height: fit-content;
+        width: 30px;
+        cursor: pointer;
+}
+}

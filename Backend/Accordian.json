@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "heading": " What is an e-commerce website?",
+        "content":"An e-commerce website is an online platform where businesses and individuals can buy and sell goods and services."
+    },
+
+    {
+        "id": 2,
+        "heading": "What are the best practices for eCommerce website design?",
+        "content":"Best practices include having a clean and intuitive layout, using high-quality images and making sure the website is mobile-friendly."
+    },
+    {
+        "id": 3,
+        "heading": "How important is responsive design for my e-commerce website?",
+        "content":"Responsive design is crucial as it ensures a seamless user experience across devices "
+    },
+    {
+        "id": 4,
+        "heading": "What is the importance of mobile optimization for eCommerce websites?",
+        "content":"Mobile optimization is crucial as a significant portion of online shopping is done via mobile devices. "
+    }
+]

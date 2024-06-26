@@ -1,0 +1,40 @@
+.p{
+    display: flex;
+    justify-content: space-around;
+}
+.square{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    animation: move 1s ease-in-out;
+    margin-top: 10px;
+
+    .circle{
+        border: 1px solid black;
+        border-radius: 100%;
+        height: 150px;
+        width: 150px;
+        margin-top: 20px;
+        margin-left: 25px;
+    }
+}
+.c1{
+        border: 1px solid black;
+        border-radius: 100%;
+        height: 200px;
+        width: 200px;
+        margin-top: 10px;
+        animation: move 1s ease-in-out;
+        
+        .s1{
+            border: 1px solid black;
+            height: 100px;
+            width: 100px;
+            margin-left: 51px;
+            margin-top: 50px;
+        }
+}
+@keyframes move{
+    0%{transform: scale(0);}
+    100%{transform: scale(1);}
+}

@@ -1,0 +1,129 @@
+@mixin list($b,$br,$bg,$cl:aliceblue){
+       
+            border: $b;
+            border-radius: $br;
+            background-color: $bg;
+            color: $cl;
+            padding: 10px;
+        
+}
+@mixin bn {
+        @media only screen and (max-width: 768px) {
+        @content;
+        }
+}
+@mixin txt($ff,$c,$fw){
+        font-size: $ff;
+        color: $c;
+        font-weight: $fw;
+    
+}
+@mixin tex{
+        border-bottom: 2px solid rgb(249, 245, 245);
+}
+@mixin hed {
+        @media only screen and (max-width: 768px) {
+        @content;
+        }
+}
+@mixin sd{
+        @media only screen and (max-width: 768px) {
+                @content;
+        }
+}
+@mixin cn{
+        @media only screen and (max-width:768px){
+                @content;
+        }
+}
+@mixin d{
+        @media only screen and (max-width:768px) {
+                @content;
+        }
+}
+@mixin lg{
+        @media only screen and (max-width:768px) {
+                @content;
+        }
+}
+@mixin reg{
+        @media only screen and (max-width:768px) {
+                @content;
+        }
+}
+@mixin np{
+        @media only screen and (max-width:768px) {
+                @content;
+        }
+}
+@mixin ct{
+        @media only screen and (max-width:768px) {
+                @content;
+        }
+}
+
+@mixin sp{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin payment{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin order{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin reg{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin log{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin cont{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin check{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin typ{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin inc{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin form{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin category{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin product{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}
+@mixin pdf{
+        @media only screen and (max-width:768px) {
+                @content;
+        }  
+}

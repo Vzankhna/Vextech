@@ -1,0 +1,97 @@
+@import '../../Common/mixin.scss';
+.cart{
+    position: fixed;
+    right: 0;
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+.cart-head{
+    border-bottom: 1px solid black;
+    display: flex;
+    font-size: 14px;
+    justify-content: space-between;
+    padding: 20px 10px;
+    align-items: center;
+span{
+        font-size: 24px;
+        cursor: pointer;
+    }
+}
+.cart-items{
+    .cart-item{
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        padding: 10px;
+        border-bottom: 1px solid black;
+
+    img{
+        height: 70px;
+        width: 70px;
+    }
+
+    .cart-details{
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+
+        .quantity{
+            display: flex;
+            align-items: center;
+            span{
+                border: 1px solid black;
+                padding: 3px 10px;
+                cursor: pointer;
+            }
+
+            p{
+                border: 1px solid black;
+                padding: 3px 10px;
+            }
+        }
+
+    }
+}
+}
+
+.cart-total{
+
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    align-items: center;
+    border-top: 1px solid black;
+
+    .value{
+        display: flex;
+        gap: 5px;
+        font-size: 20px;
+    }
+
+    button{
+        padding: 8px 12px;
+        height: fit-content;
+        width: fit-content;
+        font-size: 16px;
+        background-color: rgba(0, 0, 0, 0.945);
+        color: white;
+        border: 1px solid black;
+        cursor: pointer;
+
+
+        &:hover{
+            background-color: white;
+            border: 1px solid black;
+            color: black;
+        }
+    }
+}
+    @include ct{
+        width: 100%;
+    }
+
+}
+
+      

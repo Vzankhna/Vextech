@@ -1,0 +1,12 @@
+@import '../../../Common/mixin.scss';
+form{
+    margin:0 200px;
+    margin-top: 20px;
+    @include form{
+        display: flex;
+        flex-direction: column;
+        .mains{
+            text-align: center;
+        }
+    }
+}

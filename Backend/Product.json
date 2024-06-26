@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "img": "/track.jpg",
+        "product_route": "track-pants",
+        "product": "Track Pants"
+     
+     
+    },
+    {
+        "id": 2,
+        "img": "/track1.jpg",
+        "product_route": "track-pants",
+        "product": "Track Pants"
+        
+    },
+    {
+        "id": 3,
+        "img": "/track2.jpg",
+        "product_route": "track-pants",
+        "product": "Track Pants"
+      
+    },
+    {
+        "id": 4,
+        "img": "/track3.jpg",
+        "product_route": "track-pants",
+        "product": "Track Pants"
+     
+    },
+    {
+        "id": 5,
+        "img":"/track4.jpg",
+        "product_route":"track-pants",
+        "product":"Track Pants"
+    }
+]

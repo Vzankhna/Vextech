@@ -1,0 +1,58 @@
+.container-box {
+    perspective: 1000px; 
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 9999999;
+    transform: translate(-50%,-50%);
+
+    .box {
+        width: 150px;
+        height: 150px;
+        position: relative;
+        transform-style: preserve-3d;
+        animation: rotate3D 4s linear infinite;
+
+        div {
+            position: absolute;
+            width: 150px;
+            height: 150px;
+            background-color: rgba(0, 0, 0, 0.1);
+            border: 2px solid rgba(0, 0, 0, 0.632); 
+
+            &:nth-child(1){
+                transform: translateZ(80px);
+            }
+
+            &:nth-child(2){
+                transform: rotateY(180deg) translateZ(80px);
+            }
+
+            &:nth-child(3){
+                transform: rotateY(-90deg) translateZ(80px);
+            }
+
+            &:nth-child(4){
+                transform: rotateY(90deg) translateZ(80px);
+            }
+
+            &:nth-child(5){
+                transform: rotateX(90deg) translateZ(80px);
+            }
+
+            &:nth-child(6){
+                transform: rotateX(-90deg) translateZ(80px);
+            }
+        }
+    }
+}
+
+
+@keyframes rotate3D {
+    0% {
+        transform: rotateX(0deg) rotateY(0deg);
+    }
+    100% {
+        transform: rotateX(360deg) rotateY(360deg);
+    }
+}

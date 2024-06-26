@@ -1,0 +1,18 @@
+.orderconfirm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    img{
+        animation: name 0.7s ease-in ;
+    } 
+}
+
+@keyframes name{
+        0%{transform: scale(0) rotate(0deg);}
+        100%{transform: scale(1) rotate(360deg);}
+}
+
+
+
